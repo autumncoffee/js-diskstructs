@@ -1,0 +1,17 @@
+{
+  "name": "ac-diskstructs",
+  "version": "1.0.0",
+  "description": "On-disk data structures",
+  "main": "ac_diskstructs.js",
+  "private": true,
+  "dependencies": {
+    "bindings": "~1.2.1",
+    "node-addon-api": "^1.0.0",
+    "ac-common": "autumncoffee/cxx-common#v1.0.0",
+    "ac-library": "autumncoffee/cxx-library#v1.0.4"
+  },
+  "scripts": {
+    "test": "node ./test.js"
+  },
+  "gypfile": true
+}
