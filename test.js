@@ -17,7 +17,7 @@ const TestDir = new function() {
   };
 
   this.remove = function() {
-    fs.rmdirSync(root, {recursive: true});
+    fs.rmSync(root, {recursive: true});
   };
 };
 
