@@ -5,7 +5,7 @@
   "main": "ac_diskstructs.js",
   "private": true,
   "dependencies": {
-    "ac-common": "autumncoffee/cxx-common#v1.0.6",
+    "ac-common": "autumncoffee/cxx-common#v1.0.3",
     "ac-library": "autumncoffee/cxx-library#v1.0.6",
     "bindings": "^1.5.0",
     "node-addon-api": "^8.3.0"
